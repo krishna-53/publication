@@ -1,4 +1,5 @@
 🧠 Breast Cancer Detection Using Pre-Processed Images and Ensemble Learning
+
 This repository presents a machine learning approach to improve breast cancer detection using image pre-processing and classifier fusion techniques. The project implements and evaluates three classifiers—Convolutional Neural Network (CNN), K-Nearest Neighbors (KNN), and Decision Tree—on pre-processed mammogram images. It then fuses their results using ensemble methods to improve diagnostic accuracy.
 
 📌 Abstract
